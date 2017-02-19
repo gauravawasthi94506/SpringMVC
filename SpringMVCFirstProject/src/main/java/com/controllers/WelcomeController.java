@@ -11,7 +11,6 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 import com.Services.LoginServices;
 
-
 @Controller
 public class WelcomeController {
 	@Autowired
